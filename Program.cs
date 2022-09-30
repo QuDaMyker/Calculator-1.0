@@ -33,7 +33,7 @@ namespace CalculateWinform
         {
             Form mForm = new Form();
             mForm.Text = "Calculator 1.0";
-            mForm.Size = new System.Drawing.Size(500, 850);
+            mForm.Size = new System.Drawing.Size(480, 550);
             mForm.AutoSize = false;
             mForm.MaximizeBox = false;
             mForm.FormBorderStyle = FormBorderStyle.FixedSingle;
